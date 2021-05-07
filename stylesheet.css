@@ -114,14 +114,14 @@ main{
 	width: 100%;
 }
 .w33 ul{
-	list-style: url("../DULIEU/images/bullet_hover.png");
+	list-style: url("bullet_hover.png");
 }
 .w33 ul li a{
 	text-decoration: none;
 	color: black;
 }
 .w33 ul li:hover{
-	list-style: url("../DULIEU/images/bullet.png");
+	list-style: url("bullet.png");
 }
 .w33 ul li a:hover{
 	color:#1656A7;
@@ -146,7 +146,7 @@ h2, h3 {
 }
 h2{
 	height: 50px;
-	background: url("../DULIEU/images/bg_td.gif");
+	background: url("bg_td.gif");
 	background-repeat: no-repeat;
 	background-position: right bottom;
 }
